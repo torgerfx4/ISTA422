@@ -384,25 +384,35 @@
    > **Note:**You will only complete step 1 in task 5 until the end of the course. The virtual machine will be used to complete the remaining labs.
 	
 	a. Select all resources
-	b. Select the virtual machine named vm20532.
+
+	b. Select the virtual machine named vm20532
+
 	c. Select stop to stop the instance
+
 	d. Select start, then connect to restart the virtual machine
 
 2. Delete the virtual machine
+
 	a. Select all resources
+
 	b. Select the virtual machine named vm20532.
+
 	c. Select Delete to permanently remove the VM instance
 
 3. Delete the virtual network
 
 	a.  Select all resources
+
    	b.  Select vnet20532
+
 	c.  Select delete to permanently remove the virtual network
 	
 
 4. Delete the storage account
 
 	a.  Select all resources
+
    	b.  Select stor20532[yourname]
+
 	c.  Select delete to permanently remove the stoarge account
 
